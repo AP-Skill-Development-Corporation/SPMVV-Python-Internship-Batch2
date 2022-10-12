@@ -8,3 +8,4 @@
 # Day-02(11-10-2022):
   - Yesterday Concepts Overview
   - Advanced Editors and IDLE procedure to execute python file
+  - Jupyter notebook installation,pip upgrade and checking of version
