@@ -1,0 +1,34 @@
+Day-03[12-10-2022]:
+===================
+	Good Evening to All...
+
+	Jupyter notebook running:
+	=========================
+	> open command prompt and then we need to type the command such as 
+		=> jupyter notebook
+		It will runs the server and opens jupyter notebook in default browser with tree structure of a folders and files in a local system
+
+	Jupyter Notebook = Literate Programming
+	Literate Programming => Coding + Documentation
+
+	Commands used in Jupyter notebook:
+	==================================
+	esc + m => Changes from code to markdown
+	esc + y => Changes from markdown to code
+	cntrl + enter => Executes present cell
+	shift + enter => Executes and select below
+	alt + enter => Executes and insert cell below
+
+	One cell = one program file code
+
+	> In Jupyter notebook it consists of 2 formats they are
+		- Coding format
+		- Markdown format
+		In these each formats it consists of 2 modes they are
+			- code mode
+			- edit mode
+	
+	Python Basics:
+	===============
+	Variables
+	Assignment of values to a variable in a different way
