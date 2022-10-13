@@ -9,3 +9,7 @@
   - Yesterday Concepts Overview
   - Advanced Editors and IDLE procedure to execute python file
   - Jupyter notebook installation,pip upgrade and checking of version
+
+# Day-03(12-10-2022):
+  - Overview of Jupyter notebook,running of it
+  - Python Basics like variables and different ways to assign a values to a variables
