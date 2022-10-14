@@ -13,3 +13,8 @@
 # Day-03(12-10-2022):
   - Overview of Jupyter notebook,running of it
   - Python Basics like variables and different ways to assign a values to a variables
+
+# Day-04(13-10-2022):
+  - Data types and type method
+  - Type casting
+  - Input and output formatting
