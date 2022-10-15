@@ -18,3 +18,6 @@
   - Data types and type method
   - Type casting
   - Input and output formatting
+
+# Day-05(14-10-2022):
+  - Conditional Statements with if and if-else examples on each
