@@ -25,3 +25,6 @@
 
 # Day-06(15-10-2022):
   - Conditional Statements with nested if with examples
+
+# Day-07(17-10-2022):
+  - Looping concept on for with single parameter 
