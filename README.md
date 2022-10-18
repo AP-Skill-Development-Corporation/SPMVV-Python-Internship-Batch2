@@ -28,3 +28,6 @@
 
 # Day-07(17-10-2022):
   - Looping concept on for with single parameter 
+
+# Day-08(18-10-2022):
+  - for loop on two parameters with sample example and completed 2 problems based on hackerrank 
