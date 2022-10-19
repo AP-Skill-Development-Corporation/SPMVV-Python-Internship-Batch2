@@ -31,3 +31,7 @@
 
 # Day-08(18-10-2022):
   - for loop on two parameters with sample example and completed 2 problems based on hackerrank 
+
+# Day-09(19-10-2022):
+  - While loop with forward,backward and infinity with sample example on each
+  - Jumping statements and inner loop with sample example on each
