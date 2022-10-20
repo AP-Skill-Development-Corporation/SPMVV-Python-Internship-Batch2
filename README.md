@@ -35,3 +35,7 @@
 # Day-09(19-10-2022):
   - While loop with forward,backward and infinity with sample example on each
   - Jumping statements and inner loop with sample example on each
+
+# Day-10(20-10-2022):
+  - Yesterday task overview completed task on diagonal and reverse problem with even and odd numbers printing
+  - Functions and its types with sample example on each
