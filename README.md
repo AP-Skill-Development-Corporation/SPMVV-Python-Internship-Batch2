@@ -39,3 +39,7 @@
 # Day-10(20-10-2022):
   - Yesterday task overview completed task on diagonal and reverse problem with even and odd numbers printing
   - Functions and its types with sample example on each
+
+# Day-11(21-10-2022):
+  - Previous topics overview
+  - User defined remaining 3 types with sample example on each
