@@ -43,3 +43,6 @@
 # Day-11(21-10-2022):
   - Previous topics overview
   - User defined remaining 3 types with sample example on each
+
+# Day-12(22-10-2022):
+  - Function argument types with sample examples on each
